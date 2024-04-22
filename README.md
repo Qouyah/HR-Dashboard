@@ -30,7 +30,7 @@ In the initial data preparation phase, i performed the following tasks:
 2. **Filtering Options:** Filter data by various attributes such as department, job role, age group, and more to analyze specific segments.
 3. **Key Metrics:** View key metrics such as attrition rate, average tenure, and demographic distributions at a glance.
 
-## Link to the Dynamic Dashboard
+## Link to view the Dynamic Dashboard
 [Click here](https://www.novypro.com/project/hr-attrition-dashboard-37) to view
 
 
